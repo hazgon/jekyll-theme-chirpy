@@ -23,7 +23,7 @@ author: Иван Абашкин                 # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: hazgon                      # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -33,7 +33,7 @@ social:
   email: Ivan@Abashkin.su             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - mailto:Ivan@Abashkin.su      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -115,7 +115,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: Блог
           url: /
   -
     scope:
@@ -133,7 +133,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Tags
+          label: Теги
           url: /tabs/tags/
   -
     scope:
@@ -146,7 +146,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Categories
+          label: Категории
           url: /tabs/categories/
   -
     scope:
@@ -156,7 +156,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Блог
           url: /
 
 

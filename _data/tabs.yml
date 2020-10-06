@@ -18,11 +18,11 @@
   icon: "fas fa-tags"
   path: tabs
   url: tags
-#-
-#  name: "История"
-#  path: tabs
-#  url: archives
-#  icon: "fas fa-archive"
+-
+  name: "История записей"
+  path: tabs
+  url: archives
+  icon: "fas fa-archive"
 -
   name: "Обо мне"
   icon: "fas fa-info"
